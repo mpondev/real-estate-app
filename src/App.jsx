@@ -1,5 +1,7 @@
+import './layout.scss';
+
 function App() {
-  return <div>Real Estate App</div>;
+  return <div className="layout">Real Estate App</div>;
 }
 
 export default App;
